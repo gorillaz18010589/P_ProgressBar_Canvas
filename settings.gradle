@@ -1,0 +1,4 @@
+include ':shape'
+include ':TickProgress'
+include ':app'
+rootProject.name = "P_ProgressBar_Canvas"
